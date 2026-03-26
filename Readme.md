@@ -1,62 +1,66 @@
-# Sumindra Chaudhary - Portfolio Website
+# Sumindra Chaudhary
 
-![Portfolio Preview](src/webp/webKnight.webp)
+Flutter Developer | Mobile App Enthusiast | Esports Organizer
 
-A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a web developer and digital visual artist.
-
-## Features
-
-- **Interactive UI**: Custom cursor effects, animations, and responsive design
-- **Dark/Light Mode**: Toggle between color schemes
-- **Audio Integration**: Background music option
-- **Smooth Animations**: Using AOS (Animate On Scroll) library
-- **Responsive Design**: Works on all device sizes
-- **Accessibility**: ARIA labels and semantic HTML
-
-## Technologies Used
-
-- HTML5, CSS3, JavaScript
-- [AOS Library](https://michalsnik.github.io/aos/) for scroll animations
-- Google Fonts for typography
-- Netlify for deployment
-
-## Sections
-
-1. **Home**: Introduction and quick overview
-2. **About Me**: Professional background and bio
-3. **Skills**: Tech stack and tools I work with
-4. **Projects**: Featured work with live demos
-5. **Contact**: Social media links and email
-
-## Projects Showcased
-
-1. **InfiKnight** - Esports tournament platform
-   - GitHub: [github.com/cdrysumindra110/infiknight](https://github.com/cdrysumindra110/infiknight)
-   - Live: [infiknight.great-site.net](https://infiknight.great-site.net/)
-
-2. **Photography Blog** - Photography portfolio site
-   - GitHub: [github.com/cdrysumindra110/photography](https://github.com/cdrysumindra110/photography)
-   - Live: [sumindraphotography.netlify.app](https://sumindraphotography.netlify.app)
-
-## Installation
-
-No installation required - simply visit the live site at [https://sumindra.com.np/](https://https://sumindra.com.np//).
-
-For local development:
-1. Clone the repository
-2. Open `index.html` in your browser
-
-## Contact
-
-- Email: [cdrysumindra110@gmail.com](mailto:cdrysumindra110@gmail.com)
-- GitHub: [github.com/cdrysumindra110](https://github.com/cdrysumindra110)
-- LinkedIn: [linkedin.com/in/sumindra-chaudhary](https://www.linkedin.com/in/sumindra-chaudhary-00769130b/)
-- Instagram: [instagram.com/bloodehancxy](https://www.instagram.com/bloodehancxy/)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+🌐 [sumindra.com.np](https://sumindra.com.np) | [GitHub](https://github.com/cdrysumindra110) | [LinkedIn](https://www.linkedin.com/in/sumindra45/)
 
 ---
 
-© 2022 Sumindra Chaudhary | Designed and Built with ❤️
+## Professional Summary
+Flutter Developer with hands-on experience building cross-platform mobile apps using **Flutter, Dart, and Firebase**. Skilled in implementing **clean UI/UX**, managing state with **BLoC**, and integrating **real-time features**. Experienced in **Esports tournament management** with Infiknight. Delivered production-ready apps including **e-commerce, booking, and utility applications**. Passionate about building scalable, user-focused solutions.
+
+---
+
+## Technical Skills
+
+- **Mobile:** Flutter SDK, Dart, Android Studio, Xcode  
+- **State Management:** BLoC/Cubit, Provider  
+- **Backend, APIs & Database:** Firebase (Auth, Firestore), RESTful APIs, PHP (Laravel), SQL  
+- **Tools & Workflow:** Git, GitHub, Postman, VS Code, Figma  
+- **Web:** HTML, CSS, JavaScript, WordPress  
+- **Esports & Event Management:** Tournament organization, player coordination, live scoring systems  
+- **Soft Skills:** Project Management, Problem-Solving, Teamwork, Analytical Thinking  
+
+---
+
+## Projects
+
+### Mero Stay - Room Booking App  
+**Tech:** Flutter, Firebase (Auth, Firestore, Storage), BLoC, Real-time Chat  
+- Built a production-ready booking system with **modular clean architecture**.  
+- Designed a **real-time messaging system** with efficient Firestore data modeling.  
+- Optimized performance and state handling for scalable interactions.  
+- Implemented **secure Firebase authentication**.
+
+### E-commerce App with Admin Panel  
+**Tech:** Flutter, Dart, Firebase, BLoC, Khalti Payment Integration  
+- Developed separate **user and admin panels**.  
+- Implemented **product management, cart, and order workflows**.  
+- Integrated **Khalti payment gateway** for secure transactions.  
+
+### Professional Weather App  
+**Tech:** Flutter, Dart, RESTful API, Geolocator  
+- Real-time weather updates and forecasts based on **user location**.  
+- Integrated **weather API** and automatic **GPS-based location detection**.  
+
+### Task Management App (To-Do)  
+**Tech:** Flutter, Dart, Firebase, BLoC  
+- To-do app with **user login/signup** using Firebase Authentication.  
+- Applied **BLoC pattern** for efficient state management.  
+
+### News App  
+**Tech:** Flutter, Dart, RESTful API, WebView  
+- News aggregator fetching headlines from a public API with **search and category filters**.  
+- Used WebView for **full article display**.  
+
+---
+
+## Esports Experience
+
+### Infiknight – Esports Tournament Organizer  
+- Managed **online and offline tournaments**, including PUBG, Free Fire, and Valorant.  
+- Coordinated **player registrations, team management, and scheduling**.  
+- Implemented **real-time scoring and results tracking** for seamless live events.  
+- Led a **team of volunteers** to run professional-level competitions.  
+
+---
